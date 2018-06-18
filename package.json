@@ -1,0 +1,20 @@
+{
+  "name": "video-media-samples",
+  "version": "1.0.0",
+  "description": "Three different versions (480p, 1080p, 1080p@60fps) of mp4 encoded (H264/AAC) 30 seconds version of Big Buck Bunny for testing with browser video element",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chthomos/video-media-samples.git"
+  },
+  "keywords": [
+    "video",
+    "mp4",
+    "samples"
+  ],
+  "author": "Harry Thomos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chthomos/video-media-samples/issues"
+  },
+  "homepage": "https://github.com/chthomos/video-media-samples#readme"
+}
